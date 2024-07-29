@@ -12,7 +12,7 @@ Welcome to the Fake News Detector! This project is all about separating the trut
 
 ## 📂 Dataset
 
-- **True.csv**: Contains true news articles.
+- **True.csv**:("https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets")
 - **Fake.csv**: Contains fake news articles.
 
 ## 🚀 Getting Started
