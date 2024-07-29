@@ -77,7 +77,7 @@ Follow these steps to get your Fake News Detector up and running!
 Feel free to reach out if you have any questions or suggestions!
 
 - **Email**: pradnya08062003@gmail.com
-- **GitHub**: [yourusername](https://github.com/pradnya2003)
+- **GitHub**: [pradnya2003](https://github.com/pradnya2003)
 
 ## 🎊 Acknowledgements
 
